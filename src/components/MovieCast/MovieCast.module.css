@@ -1,0 +1,23 @@
+.image {
+    margin: 16px auto 0 auto;
+}
+
+.card {
+    min-width: 200px;
+    text-align: center;
+    padding: 2px;
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    gap: 1px;
+    flex-wrap: wrap;
+    padding-left: 0;
+    justify-content: center;
+}
+
+.item {
+    border-radius: 10px;
+    border: 1px solid grey;
+}

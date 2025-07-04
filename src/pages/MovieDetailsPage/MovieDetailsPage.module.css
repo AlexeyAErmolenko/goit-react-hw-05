@@ -1,0 +1,22 @@
+.container {
+    margin: 5px;
+}
+
+.box {
+    display: flex;
+    gap: 10px;
+}
+
+.text {
+    font-size: medium;
+    font-weight: 400;
+}
+
+.titleAddInfo {
+    margin-bottom: -10px;
+}
+
+.addInfo {
+    border-bottom: 1px solid #a0a0a0;
+    box-shadow: 0 10px 5px grey;
+}
